@@ -1,6 +1,6 @@
 # DEM-o-gorgon
 
-QGIS plugin by Daniel Ibarra-Marinas and Alejandro Fenollar-Rueda (Laboratorio Ocean from Space, UAT).
+QGIS plugin by Daniel Ibarra-Marinas (Laboratorio Ocean from Space, UAT) and Alejandro Fenollar-Rueda (Universidad de Alicante).
 
 **EN.** Inverts a DEM (peaks become pits, valleys become ridges) and styles it with a dark retro-horror look. Three ways to flip: around min + max (keeps the range), around sea level (0 m), or around a custom elevation. Flipping twice with the same settings returns the original DEM.
 

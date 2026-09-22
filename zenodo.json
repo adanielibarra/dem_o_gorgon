@@ -1,0 +1,28 @@
+{
+  "title": "DEM-o-gorgon: a QGIS plugin to flip a DEM into the upside down",
+  "upload_type": "software",
+  "version": "0.1.1",
+  "description": "QGIS plugin that inverts a digital elevation model (peaks become pits, valleys become ridges) and applies a ready-made dark retro-horror style with optional hillshade. Three inversion modes: around min + max, around sea level (0 m) or around a custom elevation. / Plugin de QGIS que invierte un modelo digital de elevaciones (los picos se vuelven fosas y los valles, crestas) y aplica un estilo oscuro de terror retro con sombreado opcional.",
+  "creators": [
+    {
+      "name": "Ibarra-Marinas, Daniel",
+      "affiliation": "Universidad Autónoma de Tamaulipas",
+      "orcid": "0000-0003-3683-4456"
+    },
+    {
+      "name": "Fenollar-Rueda, Alejandro",
+      "orcid": "0009-0005-4229-8778",
+      "affiliation": "Universidad de Alicante"
+    }
+  ],
+  "keywords": [
+    "QGIS",
+    "QGIS plugin",
+    "DEM",
+    "raster",
+    "hillshade",
+    "elevation inversion",
+    "outreach",
+    "GIS"
+  ]
+}

@@ -7,9 +7,9 @@ description=Flip your DEM into the upside down: invert elevations and apply a da
 version=0.1.1
 author=Daniel Ibarra-Marinas, Alejandro Fenollar-Rueda
 email=daniel.ibarra@uat.edu.mx
-about=DEM-o-gorgon inverts a digital elevation model (peaks become pits, valleys become ridges) and applies a ready-made dark style with red hillshade and glow. Fun for outreach, useful for analysis: inverted DEMs help extract ridgelines and divides with standard hydrology tools. Created by Daniel Ibarra-Marinas and Alejandro Fenollar-Rueda, Laboratorio Ocean from Space, UAT.
+about=DEM-o-gorgon inverts a digital elevation model (peaks become pits, valleys become ridges) and applies a ready-made dark style with red hillshade and glow. Fun for outreach, useful for analysis: inverted DEMs help extract ridgelines and divides with standard hydrology tools. Created by Daniel Ibarra-Marinas (Laboratorio Ocean from Space, UAT) and Alejandro Fenollar-Rueda (Universidad de Alicante).
 
-    DEM-o-gorgon invierte un modelo digital de elevaciones (los picos se vuelven fosas y los valles, crestas) y le aplica un estilo oscuro con sombreado rojo y brillo. Divertido para divulgar y útil para analizar: los DEM invertidos sirven para sacar crestas y divisorias con las herramientas de hidrología de siempre. Creado por Daniel Ibarra-Marinas y Alejandro Fenollar-Rueda, Laboratorio Ocean from Space, UAT.
+    DEM-o-gorgon invierte un modelo digital de elevaciones (los picos se vuelven fosas y los valles, crestas) y le aplica un estilo oscuro con sombreado rojo y brillo. Divertido para divulgar y útil para analizar: los DEM invertidos sirven para sacar crestas y divisorias con las herramientas de hidrología de siempre. Creado por Daniel Ibarra-Marinas (Laboratorio Ocean from Space, UAT) y Alejandro Fenollar-Rueda (Universidad de Alicante).
 tracker=https://github.com/adanielibarra/dem_o_gorgon/issues
 repository=https://github.com/adanielibarra/dem_o_gorgon
 homepage=https://github.com/adanielibarra/dem_o_gorgon
